@@ -33,4 +33,6 @@ Este projeto implementa um processo ETL (Extract, Transform, Load) utilizando Py
 - Gera um dashboard interativo com Streamlit e visualizações em Matplotlib e Plotly.
 
 
+![image](https://github.com/user-attachments/assets/4b5d4b97-770f-42bc-9f8a-ab381dd0d0a4)
+
 
